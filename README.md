@@ -1,2 +1,5 @@
 # Discover-Sphere
-An online platform to explore events and activities in and around your location.
+-an online platform to explore events around your locality using HTML, CSS, and Figma.
+-includes light mode.
+-developed for desktop.
+-has a pleasant user interface.
