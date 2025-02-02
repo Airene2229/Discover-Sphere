@@ -1,0 +1,103 @@
+#second{
+    background-color: aquamarine;
+    width: 50%;
+    height:50%;
+    border-style: dotted ;
+    padding-top: 30%;
+    padding-left: 40% ;
+    margin-top: 50%;
+    margin-left: 30%;
+    
+
+    
+}
+#button{
+    background-color: aqua;
+    size: 40px ;
+}
+.navbar{
+display: flex;
+justify-content: space-between;
+padding: 1rem 2rem;
+background-color: rgb(204, 42, 96);
+margin-top: 7px;
+
+
+
+}
+.topnav{
+    display: flex;
+justify-content: space-between;
+height: 50px;
+padding-top: 10px;
+background-color: teal;
+    
+     
+}
+#logo{
+    padding-right: 70%;
+}
+.search{
+    padding-right: 10px;
+    gap: 55px;
+    justify-content: space-between;
+    border-radius: 15px;
+    
+}
+
+.zoonav{
+    display: flex;
+    gap: 500px;
+    padding-left: 90px;
+    padding-top: 50px;
+}
+.pic{
+    gap: 140px;
+    display: flex;
+}
+.bla{
+    gap: 240px;
+    display: flex;
+}
+.login{
+    margin-left: 9px;
+    
+    
+}
+.rhq{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+.you{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;  
+}
+.gth{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+footer{
+    background-color: teal;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+
+    
+}
+footer p{
+    margin: 10px;
+}
+footer ul{
+    list-style-type: none;
+}
+footer ul li{
+    display: inline;
+    margin: 0 15px;
+}
+   
